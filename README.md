@@ -20,3 +20,10 @@ Glosario de palabras, taller de Git y GItHub
 | Conflict        | Ocurre cuando Git no puede fusionar automáticamente los cambios de dos ramas. |
 | .gitignore      | Archivo que indica qué archivos o carpetas deben ser ignorados por Git. |
 | Staging Area    | Zona donde se preparan los archivos antes de confirmar un commit. |
+
+# Comandos básicos de Git Darlan Mejia
+Git init: Crea un repositorio Git en la carpeta donde estoy trabajando.
+Git status: Muestra el estado de los archivos (si están cambiados, listos para guardar, etc.).
+Git add: Prepara archivos para ser guardados con commit.
+Git commit: Guarda los cambios preparados con un mensaje.
+Git branch: Muestra las ramas existentes o crea una nueva.
